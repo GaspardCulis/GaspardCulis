@@ -1,6 +1,6 @@
 <div align="center">
   
-![Capsule Render Thing](https://capsule-render.vercel.app/api?type=venom&height=140&color=gradient&text=GaspardCulis&animation=twinkling&textBg=false&strokeWidth=1&reversal=false)
+![Capsule Render Thing](https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=GaspardCulis&animation=twinkling&textBg=false&strokeWidth=1&reversal=false)
 
 </div>
 
