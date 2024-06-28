@@ -35,17 +35,17 @@
 
 ## Frameworks
 
-![AstroJS](https://api.iconify.design/skill-icons/astro.svg?height=60)
+[![AstroJS](https://api.iconify.design/skill-icons/astro.svg?height=60)](https://astro.build)
 &nbsp;
-![VueJS](https://api.iconify.design/skill-icons/vuejs-dark.svg?height=60)
+[![VueJS](https://api.iconify.design/skill-icons/vuejs-dark.svg?height=60)](https://vuejs.org/)
 &nbsp;
-![React](https://api.iconify.design/skill-icons/react-dark.svg?height=60)
+[![React](https://api.iconify.design/skill-icons/react-dark.svg?height=60)](https://react.dev/)
 &nbsp;
-![Flutter](https://api.iconify.design/skill-icons/flutter-dark.svg?height=60)
+[![Flutter](https://api.iconify.design/skill-icons/flutter-dark.svg?height=60)](https://flutter.dev/)
 &nbsp;
-![Bevy](https://api.iconify.design/skill-icons/bevy-dark.svg?height=60)
+[![Bevy](https://api.iconify.design/skill-icons/bevy-dark.svg?height=60)](https://bevyengine.org/)
 &nbsp;
-![Tauri](https://api.iconify.design/skill-icons/tauri-dark.svg?height=60)
+[![Tauri](https://api.iconify.design/skill-icons/tauri-dark.svg?height=60)](https://tauri.app/)
 &nbsp;
 
 ## Tools
@@ -65,23 +65,23 @@
   height="60px"
   alt="Alacritty">
 &nbsp;
- <img
+ <a href="https://helix-editor.com/"><img
     src="https://helix-editor.com/logo.svg"
     height="60px"
-    alt="Helix">
+    alt="Helix"></a>
 &nbsp;
 
 ## OS
 
-<img
+<a href="https://artixlinux.org/"><img
   src="https://upload.wikimedia.org/wikipedia/commons/2/27/Full_Artix_Linux_Logo.png"
   height="80px"
-  alt="Artix Linux">
+  alt="Artix Linux"></a>
 &nbsp;
-<img
+<a href="https://hyprland.org/"><img
   src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg"
   height="80px"
-  alt="Hyprland">
+  alt="Hyprland"></a>
 &nbsp;
 
 ## Stats
