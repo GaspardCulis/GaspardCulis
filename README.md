@@ -1,4 +1,8 @@
-![Capsule Render Thing](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=GaspardCulis&animation=twinkling&textBg=false&strokeWidth=1&reversal=false)
+<div align="center">
+  
+![Capsule Render Thing](https://capsule-render.vercel.app/api?type=venom&height=140&color=gradient&text=GaspardCulis&animation=twinkling&textBg=false&strokeWidth=1&reversal=false)
+
+</div>
 
 ## A bit about me
 
@@ -18,8 +22,6 @@
 &nbsp;
 ![Java](https://api.iconify.design/skill-icons/java-dark.svg?height=60)
 &nbsp;
-
-
 ![Typescript](https://api.iconify.design/skill-icons/typescript.svg?height=60)
 &nbsp;
 ![JavaScript](https://api.iconify.design/skill-icons/javascript.svg?height=60)
