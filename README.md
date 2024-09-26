@@ -1,16 +1,3 @@
-## OS
-
-<a href="https://artixlinux.org/"><img
-  src="https://upload.wikimedia.org/wikipedia/commons/2/27/Full_Artix_Linux_Logo.png"
-  height="80px"
-  alt="Artix Linux"></a>
-&nbsp;
-<a href="https://hyprland.org/"><img
-  src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg"
-  height="80px"
-  alt="Hyprland"></a>
-&nbsp;
-
 ## Stats
 
 <div>
