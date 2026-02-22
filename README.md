@@ -2,7 +2,7 @@
 
 <div>
   <h4>Bedwars winstreak :</h4>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaspardCulis&theme=dark" width="420">
+  <img src="https://github-readme-streak-stats.gasdev.fr/?user=GaspardCulis&theme=dark" width="420">
 </div>
 <div>
   <h4>Randomly smashing my keyboard produces :</h4>
